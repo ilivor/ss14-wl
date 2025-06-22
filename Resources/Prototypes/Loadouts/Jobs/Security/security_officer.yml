@@ -159,7 +159,7 @@
   equipment:
     id: SeniorOfficerPDA
 
-# Misc
+# Pins
 - type: loadout
   id: SecStar
   effects:
@@ -168,3 +168,18 @@
   storage:
     back:
     - Dinkystar
+
+- type: loadout
+  id: SecClothingNeckLgreoranPin
+  equipment:
+    neck: ClothingNeckLgreoranPin
+
+- type: loadout
+  id: SecClothingNeckLoranPin
+  equipment:
+    neck: ClothingNeckLoranPin
+
+- type: loadout
+  id: SecClothingNeckLgrePin
+  equipment:
+    neck: ClothingNeckLgrePin

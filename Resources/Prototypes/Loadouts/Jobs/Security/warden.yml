@@ -30,3 +30,9 @@
   id: WardenArmoredWinterCoat
   equipment:
     outerClothing: ClothingOuterWinterWarden
+
+# Pins
+- type: loadout
+  id: SecClothingNeckLblugrePin
+  equipment:
+    neck: ClothingNeckLblugrePin

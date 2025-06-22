@@ -8,3 +8,14 @@
   id: RedJumpskirt
   equipment:
     jumpsuit: ClothingUniformJumpskirtColorRed
+
+# Pins
+- type: loadout
+  id: SecClothingNeckyelPin
+  equipment:
+    neck: ClothingNeckyelPin
+
+- type: loadout
+  id: SecClothingNeckoranyelPin
+  equipment:
+    neck: ClothingNeckoranyelPin

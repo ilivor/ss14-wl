@@ -1168,12 +1168,25 @@
   - LoadoutSpeciesVoxNitrogen
 
 - type: loadoutGroup
-  id: SecurityStar
-  name: loadout-group-security-star
-  minLimit: 0
+  id: SecurityOfficerPins
+  name: loadout-group-security-SecOfficerPins
   loadouts:
-  - SecStar
+  - SecClothingNeckLgreoranPin
+  - SecClothingNeckLoranPin
+  - SecClothingNeckLgrePin
 
+- type: loadoutGroup
+  id: SecurityCadetPins
+  name: loadout-group-security-SecCadetPins
+  loadouts:
+  - SecClothingNeckyelPin
+  - SecClothingNeckoranyelPin
+
+- type: loadoutGroup
+  id: SecurityWardenPins
+  name: loadout-group-security-SecWardenPins
+  loadouts:
+  - SecClothingNeckLblugrePin
 # Medical
 - type: loadoutGroup
   id: ChiefMedicalOfficerHead

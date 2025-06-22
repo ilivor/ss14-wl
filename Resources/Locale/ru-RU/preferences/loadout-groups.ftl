@@ -139,6 +139,9 @@ loadout-group-detective-jumpsuit = Детектив, комбинезон
 loadout-group-detective-outerclothing = Детектив, верхняя одежда
 loadout-group-security-cadet-jumpsuit = Кадет СБ, комбинезон
 loadout-group-security-star = СБ, Звёздочка
+loadout-group-security-SecOfficerPins = Офицер СБ, Жетон
+loadout-group-security-SecCadetPins = Кадет СБ, Жетон
+loadout-group-security-SecWardenPins = Смотритель, Жетон
 # Medical
 loadout-group-medical-gloves = Медицинский отдел, перчатки
 loadout-group-medical-mask = Медицинский отдел, маска

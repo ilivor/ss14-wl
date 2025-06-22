@@ -376,7 +376,7 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+#  - SecurityStar
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout
@@ -391,7 +391,8 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+#  - SecurityStar
+  - SecurityWardenPins
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout
@@ -407,7 +408,7 @@
   - SecurityBelt
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - SecurityOfficerPins
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout
@@ -422,7 +423,7 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+#  - SecurityStar
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout
@@ -434,6 +435,7 @@
   - SurvivalSecurity
   - Trinkets
   - GroupSpeciesBreathToolSecurity
+  - SecurityCadetPins
 
 # Medical
 - type: roleLoadout
