@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Archestratigus АКА Заступник",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+    "states": [
+        {
+            "name": "blu"
+        },
+        {
+            "name": "blu-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "blugre"
+        },
+        {
+            "name": "blugre-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "cya"
+        },
+        {
+            "name": "cya-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "gre"
+        },
+        {
+            "name": "gre-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "greoran"
+        },
+        {
+            "name": "greoran-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "oran"
+        },
+        {
+            "name": "oran-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "oranyel"
+        },
+        {
+            "name": "oranyel-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "pur"
+        },
+        {
+            "name": "pur-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "purblu"
+        },
+        {
+            "name": "purblu-equipped-NECK",
+            "directions": 4
+        },
+        {
+            "name": "yel"
+        },
+        {
+            "name": "yel-equipped-NECK",
+            "directions": 4
+        }
+    ]
+}

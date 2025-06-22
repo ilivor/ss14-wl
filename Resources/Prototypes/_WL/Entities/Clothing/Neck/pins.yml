@@ -1,0 +1,103 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckPinWLBase
+  abstract: true
+  name: pin
+  description: Be nothing do crime.
+  components:
+  - type: Item
+    size: Tiny
+  - type: Sprite
+    sprite: _WL/Clothing/Neck/Misc/pins.rsi
+  - type: Clothing
+    sprite: _WL/Clothing/Neck/Misc/pins.rsi
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLbluPin
+  components:
+  - type: Sprite
+    state: blu
+  - type: Clothing
+    equippedPrefix: blu
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLblugrePin
+  components:
+  - type: Sprite
+    state: blugre
+  - type: Clothing
+    equippedPrefix: blugre
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLcyaPin
+  components:
+  - type: Sprite
+    state: cya
+  - type: Clothing
+    equippedPrefix: cya
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLgrePin
+  components:
+  - type: Sprite
+    state: gre
+  - type: Clothing
+    equippedPrefix: gre
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLgreoranPin
+  components:
+  - type: Sprite
+    state: greoran
+  - type: Clothing
+    equippedPrefix: greoran
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckLoranPin
+  components:
+  - type: Sprite
+    state: oran
+  - type: Clothing
+    equippedPrefix: oran
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckoranyelPin
+  components:
+  - type: Sprite
+    state: oranyel
+  - type: Clothing
+    equippedPrefix: oranyel
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckpurPin
+  components:
+  - type: Sprite
+    state: pur
+  - type: Clothing
+    equippedPrefix: pur
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckyelPin
+  components:
+  - type: Sprite
+    state: yel
+  - type: Clothing
+    equippedPrefix: yel
+
+- type: entity
+  parent: ClothingNeckPinWLBase
+  id: ClothingNeckpurbluPin
+  components:
+  - type: Sprite
+    state: purblu
+  - type: Clothing
+    equippedPrefix: purblu
